@@ -30,7 +30,7 @@ Ensure that it has been installed in the default Go path, `~/go/bin`.
 
  ---
 
-###### WARNING - RCE - WARNING
+# WARNING - RCE - WARNING
 
  ---
 
